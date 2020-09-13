@@ -1,13 +1,16 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Technology Talk
+subtitle: Whats on Leon's Mind
 image: img/images.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Biography
+  text: >-
+    I have been delivering IT Infrastructure for over two decades. I have worked
+    in delivery and sales of technology across  Cloud, Applications and Networks
+    including architecture, design, contractual development and negotiations. 
+
+
+    I love to constantly learn, as I am passionate about technology and how it can improve our life. My other passions are sailing, running and spending time with my wife and two daughters.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
