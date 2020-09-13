@@ -19,5 +19,5 @@ products:
     text: NSX allows you to deploy networks as code.
 values:
   heading: Cloud
-  text: Public or Private, or both?
+  text: Public or Private, or Both?
 ---
