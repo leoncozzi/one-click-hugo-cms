@@ -13,7 +13,10 @@ blurb:
     I love to constantly learn, as I am passionate about technology and how it can improve our life. My other passions are sailing, running and spending time with my wife and two daughters.
 intro:
   heading: Technology Domains
-  text: Networking
+  text: |-
+    Networking
+    Cloud
+    Security
 products:
   - image: img/screen-shot-2020-09-13-at-22.02.54.png
     text: NSX allows you to deploy networks as code.
